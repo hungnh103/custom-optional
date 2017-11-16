@@ -1,3 +1,4 @@
+```
 et nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -61,4 +62,4 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#buffer_nr_show = 1
 let g:ag_working_path_mode="r"
 set runtimepath^=~/.vim/bundle/ag
-
+```
